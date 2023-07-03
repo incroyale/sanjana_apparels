@@ -1,2 +1,2 @@
-App for Sanjana Apparels
+App for Sanjana Apparels. 
 Basic UI for a database, nothing much. 
